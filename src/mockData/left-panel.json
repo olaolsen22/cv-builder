@@ -1,0 +1,24 @@
+{
+  "firstSection": {
+    "title": "Professional Profile",
+    "content": "I have been in the software development industry for almost two years now. As a Software Engineer, I am mostly focused on the Front-end side when it comes to development. I am also capable of doing tasks related to the back-end. Since front-end development is my forte, I am regularly being transferred back and forth between projects due to the severity of existing UI/UX issues. Besides that, I am usually the person they point to when it comes to visual design choices for a project.\n\nBesides my hard skills, I can effectively communicate with my team members. Not only that but with the clients as well. I generally know when to raise issues or potential issues in the future. I can even learn new technologies fast since this is a common thing in the industry."
+  },
+  "secondSection": {
+    "title": "Hard Skills",
+    "content": [
+      {"title": "HTML5/CSS", "content": "2 Years"},
+      {"title": "JavaScript", "content": "2 Years"},
+      {"title": "JQuery", "content": "2 Years"},
+      {"title": "MySQL", "content": "2 Years"},
+      {"title": "NuxtJS", "content": "2 Years"},
+      {"title": "VueJS", "content": "2 Years"},
+      {"title": "ReactJS", "content": "2 Years"},
+      {"title": "Unity3D", "content": "General"},
+      {"title": "React Native", "content": "General"}
+    ]
+  },
+  "thirdSection": {
+    "title": "Soft Skills",
+    "content": "Communication, Creative, Time Management, Leadership, Work Ethic, Critical Thinking, Problem Solving, Teamwork, Negotiation, Research, Troubleshooting, Dependability,  Listening, and Writing Skills"
+  }
+}

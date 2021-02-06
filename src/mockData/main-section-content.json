@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Experience",
+    "content": [
+      {
+        "title": "Software Engineer",
+        "length": "March 2019 to Present",
+        "company": "TwistResources",
+        "website": "https://www.twistresources.com/",
+        "facebook": "https://www.facebook.com/twistresources/",
+        "instagram": "https://www.instagram.com/twistresources/",
+        "keyPoints": [
+          "Communicating with the clients during meetings",
+          "Design and develop solutions which meet the expectations of the clients",
+          "Familiar with common business rules/practices",
+          "Experienced with agile software methodologies and User Storties",
+          "Object-oriented Design and Analysis",
+          "Front end graphical user interface design",
+          "Performance tuning, improvement, balancing, usability",
+          "Creating mockups for applications for websites",
+          "Suggesting and implementing UI/UX improvements",
+          "Active participation in design and code reviews",
+          "Staying up to date with development methodologies and technologies"
+        ]
+      },
+      {
+        "title": "Software Engineer Internship",
+        "length": "November 2018 to March 2019",
+        "company": "TwistResources",
+        "website": "https://www.twistresources.com/",
+        "facebook": "https://www.facebook.com/twistresources/",
+        "instagram": "https://www.instagram.com/twistresources/",
+        "keyPoints": [
+          "Agile / SCRUM Workshop",
+          "UI/UX Design Workshop",
+          "Unit Testing Workshop",
+          "Automation Workshop",
+          "Test Case Workshop",
+          "Business Analyst / SCRUM Master Workshop",
+          "Busines Writing Workshop"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Education",
+    "content": [
+      {
+        "title": "BS Computer Science",
+        "length": "A.Y. 2015 - 2019",
+        "company": "Holy Angel University",
+        "keyPoints": [
+          "Finalist for GDAP GameOn 2017 with the submission of TicTacToe and Connect Four using Unity3D",
+          "Award for the Best Research Paper: Convolutional Neural Networks along with various computer vision algorithms for recognizing Filipino Sign Language"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Certifications",
+    "content": [
+      {
+        "length": "Nov 2020",
+        "company": "NuxtJS: VueJS on Steroids"
+      },
+      {
+        "length": "September 2019",
+        "company": "Google Analytics for Power Users"
+      },
+      {
+        "length": "May 2019",
+        "company": "User Experience Design Essentials - Adobe XD UI UX Design"
+      },
+      {
+        "length": "May 2018",
+        "company": "PCAP - Programming Essentials in Python"
+      }
+    ]
+  }
+]
